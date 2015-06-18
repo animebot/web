@@ -1,0 +1,2 @@
+# web
+Animebot Web UI
